@@ -2,4 +2,6 @@
 
 > A survey paper written on Explainable Artificial Intelligence (XAI).
 
+## Abstract
+
 Recently, with the development of deep learning, artificial intelligence has developed so much that it can be used in various industries. However, as the reliance on AI's judgment and decision-making increases, the social demand for explainability and transparency of AI has also increased. As a result, the interest and expectations in the field of explanatory artificial intelligence (XAI) that enables users to understand the judgment results and processes of artificial intelligence systems are also increasing, and many related studies have been conducted. This paper introduces a brief history, research trends, and major methodologies for explainable artificial intelligence.
